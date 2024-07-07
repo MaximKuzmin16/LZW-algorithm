@@ -1,0 +1,5 @@
+﻿  LZW.cpp
+C:\Users\Максим\OneDrive\Desktop\GITHUB\LZW algorithm\LZW\LZW\LZW.cpp(78,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\OneDrive\Desktop\GITHUB\LZW algorithm\LZW\LZW\LZW.cpp(84,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\OneDrive\Desktop\GITHUB\LZW algorithm\LZW\LZW\LZW.cpp(220,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LZW.vcxproj -> C:\Users\Максим\OneDrive\Desktop\GITHUB\LZW algorithm\LZW\x64\Debug\LZW.exe
